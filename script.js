@@ -25,7 +25,7 @@ function crearNubes() {
 const jardinContenedor = document.getElementById('jardin-contenedor');
 
 function plantarJardin() {
-    const numFlores = 150; // ¡Muchísimas flores!
+    const numFlores = 1500; // ¡Muchísimas flores!
     const tiposFlores = ['🌷', '🌻', '🌼', '🌸', '🌹', '🌺', '💐'];
 
     for (let i = 0; i < numFlores; i++) {
